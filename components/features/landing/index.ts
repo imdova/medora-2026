@@ -1,0 +1,11 @@
+export { LandingHeader } from "./landing-header";
+export { HeroSection } from "./hero-section";
+export { CategoriesSection } from "./categories-section";
+export { DoctorsSection } from "./doctors-section";
+export { WhyChooseSection } from "./why-choose-section";
+export { TestimonialsSection } from "./testimonials-section";
+export { FAQSection } from "./faq-section";
+export { AppDownloadSection } from "./app-download-section";
+export { ArticlesSection } from "./articles-section";
+export { CTASection } from "./cta-section";
+export { LandingFooter } from "./landing-footer";
