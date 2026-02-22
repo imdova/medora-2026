@@ -1,5 +1,20 @@
 {
-  "/dashboard/doctor/patients/page": "app/dashboard/doctor/patients/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
-  "/dashboard/doctor/page": "app/dashboard/doctor/page.js"
+  "/doctors/[id]/page": "app/doctors/[id]/page.js",
+  "/doctors/page": "app/doctors/page.js",
+  "/dashboard/(admin)/doctor-verification/page": "app/dashboard/(admin)/doctor-verification/page.js",
+  "/dashboard/doctor/appointments/page": "app/dashboard/doctor/appointments/page.js",
+  "/dashboard/(admin)/revenue/page": "app/dashboard/(admin)/revenue/page.js",
+  "/dashboard/(admin)/page": "app/dashboard/(admin)/page.js",
+  "/dashboard/doctor/availability/page": "app/dashboard/doctor/availability/page.js",
+  "/dashboard/(admin)/patients/page": "app/dashboard/(admin)/patients/page.js",
+  "/dashboard/(admin)/support/page": "app/dashboard/(admin)/support/page.js",
+  "/dashboard/doctor/reports/page": "app/dashboard/doctor/reports/page.js",
+  "/dashboard/doctor/earnings/page": "app/dashboard/doctor/earnings/page.js",
+  "/dashboard/doctor/page": "app/dashboard/doctor/page.js",
+  "/dashboard/doctor/reviews/page": "app/dashboard/doctor/reviews/page.js",
+  "/dashboard/doctor/messages/page": "app/dashboard/doctor/messages/page.js",
+  "/dashboard/doctor/settings/page": "app/dashboard/doctor/settings/page.js",
+  "/dashboard/doctor/patients/page": "app/dashboard/doctor/patients/page.js"
 }
