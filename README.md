@@ -1,6 +1,6 @@
 # Medora 247
 
-Production-grade1 Next.js starter with App Router, TypeScript (strict), Tailwind, shadcn/ui, and a scalable feature-based architecture.
+Production-grade2 Next.js starter with App Router, TypeScript (strict), Tailwind, shadcn/ui, and a scalable feature-based architecture.
 
 ## Stack
 
